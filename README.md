@@ -10,8 +10,8 @@ The isolation/removal of the potentially tampered data is best looked at when we
 **Before 9th Grade Removal:**
 
 ```
-School Type	Total Students	Total School Budget	Per Student Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
-Thomas High School	Charter	1635	$1,043,130.00	$638.00	83.350937	83.896082	66.911315	69.663609	65.076453
+Total Schools	Total Students	Total Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
+0	15	39,170	$24,649,428.00	78.9	81.9	74.8	85.7	64.9
 ```
 
 **After 9th Grade Removal:**
