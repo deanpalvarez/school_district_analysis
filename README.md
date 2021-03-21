@@ -13,6 +13,8 @@ School Type	Total Students	Total School Budget	Per Student Budget	Average Math S
 Thomas High School	Charter	1635	$1,043,130.00	$638.00	83.350937	83.896082	66.911315	69.663609	65.076453
 ```
 
+**After 9th Grade Removal:**
+
 ```
 School Type	Total Students	Total School Budget	Per Student Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
 Thomas High School	Charter	1635	$1,043,130.00	$638.00	83.350937	83.896082	93.185690	97.018739	90.630324
