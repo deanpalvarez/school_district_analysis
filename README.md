@@ -6,6 +6,7 @@ The reading/math scores for the 9th grade students at Thomas High School are sus
 ##### Results:
 The isolation/removal of the potentially tampered data is best looked at when we gather math/reading scores by grade including the “tampered” data, as well as after.
 -	Initially we find that Thomas high school has a passing percentage of ≈ 65%, where once refined that number changes to ≈ 90%. This is seen in numerous figures throughout the code, but is best displayed here:
+
 **Before 9th Grade Removal:**
 
 ```
